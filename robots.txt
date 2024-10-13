@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qokelikihuvu.pages.dev/sitemap.xml
